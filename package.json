@@ -1,0 +1,21 @@
+{
+  "name": "react-three-fiber",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.jsx",
+  "scripts": {
+    "start": "r3f-pack start",
+    "build": "r3f-pack build"
+  },
+  "devDependencies": {
+    "@react-three/fiber": "8.8.2",
+    "r3f-pack": "^2.2.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "three": "0.144.0"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.97.3"
+  }
+}
