@@ -6,7 +6,7 @@
   "main": "src/index.jsx",
   "scripts": {
     "start": "r3f-pack start",
-    "build": "r3f-pack build"
+    "build": "npm build"
   },
   "devDependencies": {
     "@react-three/fiber": "8.8.2",
